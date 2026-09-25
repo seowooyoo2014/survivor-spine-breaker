@@ -1,0 +1,322 @@
+{
+  "source_root": "/Users/seol-eunjin/Documents/game",
+  "copied": [
+    {
+      "source": "SlimeOverlord_Godot/main.tscn",
+      "target": "main.tscn",
+      "sha256": "7fc2b2c81c3cdf6fca7d0afb32ae5e8fc53e572d2f645484c90c1bdb57d4b851"
+    },
+    {
+      "source": "SlimeOverlord_Godot/MONSTER_META_GROWTH_PLAN.md",
+      "target": "MONSTER_META_GROWTH_PLAN.md",
+      "sha256": "142f40eafe601d697fdce5c60f3335b58155c073240d632b201020e85ba676dc"
+    },
+    {
+      "source": "SlimeOverlord_Godot/multi_observer.tscn",
+      "target": "multi_observer.tscn",
+      "sha256": "ebd5c5dc06c059cb7cb21eeb0503a8092c72fa335f7f78847e3fb3bcc84ed675"
+    },
+    {
+      "source": "SlimeOverlord_Godot/GAME_PLAN.html",
+      "target": "GAME_PLAN.html",
+      "sha256": "cee21f2865e74409bd861ee7542cc70aac9b3a2aba23054d8ae11e38f252c11d"
+    },
+    {
+      "source": "SlimeOverlord_Godot/observer.tscn",
+      "target": "observer.tscn",
+      "sha256": "6e9e8803bd60fb3a5c8e83cbe16985e22a505bac181ad731992c100a099eaf6a"
+    },
+    {
+      "source": "SlimeOverlord_Godot/main_v5.gd",
+      "target": "main_v5.gd",
+      "sha256": "1256804fd3970e547fab0b5db46ed508d73c4c20597c862dd98441e23dfeb33f"
+    },
+    {
+      "source": "SlimeOverlord_Godot/main_v4.gd",
+      "target": "main_v4.gd",
+      "sha256": "0dbe5a91421fc143a6107cbe701123daeb90931beb7523ab2ab4c8ed6c3081da"
+    },
+    {
+      "source": "SlimeOverlord_Godot/README.md",
+      "target": "README.md",
+      "sha256": "debcd404f6235b2eb707e158def45c8c9647697b33592c176a24c0e9363216ad"
+    },
+    {
+      "source": "SlimeOverlord_Godot/observer_v1.gd",
+      "target": "observer_v1.gd",
+      "sha256": "d2dd9f160b6eae21f7e736f7a9a1ca7a801c11cb01d6420067c87db20d5d4657"
+    },
+    {
+      "source": "SlimeOverlord_Godot/main_v3.gd",
+      "target": "main_v3.gd",
+      "sha256": "a3a3f5fbbdbb5cc652b293df8494eb583d1a047da59d1bccea4af60fe301ceda"
+    },
+    {
+      "source": "SlimeOverlord_Godot/.gitignore",
+      "target": ".gitignore",
+      "sha256": "531d0d253cec1addb97b2cb2d144b6589ff934513eb9c9b8cf882cb49e4c0c32"
+    },
+    {
+      "source": "SlimeOverlord_Godot/MULTI_ARENA_ROULETTE_PLAN.md",
+      "target": "MULTI_ARENA_ROULETTE_PLAN.md",
+      "sha256": "df127638bdb14cdbb1a4716f4c282a2d9652214348f7af373ebcf160ec340407"
+    },
+    {
+      "source": "SlimeOverlord_Godot/main_v2.gd",
+      "target": "main_v2.gd",
+      "sha256": "0ccf6854a90f8e7f51586516a31cf1e3a0ab918ee0adf43d4a4ae4753cf8dcef"
+    },
+    {
+      "source": "SlimeOverlord_Godot/DYNAMIC_ARENA_REWARD_PLAN.md",
+      "target": "DYNAMIC_ARENA_REWARD_PLAN.md",
+      "sha256": "50b2ecbc9faa5db3584f60011f8139b535e68bb743aadfed187ecf9e98668a26"
+    },
+    {
+      "source": "SlimeOverlord_Godot/GAME_PLAN.md",
+      "target": "GAME_PLAN.md",
+      "sha256": "b0c2ff24c215b85224d7f193fdb2fbd9ffa823c3b6eeda983facd3686a2e770d"
+    },
+    {
+      "source": "SlimeOverlord_Godot/DESIGN.md",
+      "target": "DESIGN.md",
+      "sha256": "f772f3d3a0d1116dc469d693140103899a502a038a0a9677942330457f602bd4"
+    },
+    {
+      "source": "SlimeOverlord_Godot/OBSERVER_CHANGE_PLAN.md",
+      "target": "OBSERVER_CHANGE_PLAN.md",
+      "sha256": "63a6193d449007ab1aee7adc128fdffc40766c1ceada6a2496ffef983928fae4"
+    },
+    {
+      "source": "SlimeOverlord_Godot/project.godot",
+      "target": "project.godot",
+      "sha256": "28d3ab51bf4e33740a519e57787323499fd98385c8254fa259c0414a6510a831"
+    },
+    {
+      "source": "SlimeOverlord_Godot/multi_observer.gd",
+      "target": "multi_observer.gd",
+      "sha256": "844bae8bba3e235a4795ed9b34454b60478c7f25961b1b64578eb540ded1ed42"
+    },
+    {
+      "source": "SlimeOverlord_Godot/MONSTER_ULTIMATE_EXPANSION_PLAN.md",
+      "target": "MONSTER_ULTIMATE_EXPANSION_PLAN.md",
+      "sha256": "e3af4369e39bea76b39ca9111937bc624659b81cc88d162cfa1ba77caacbccc3"
+    },
+    {
+      "source": "SlimeOverlord_Godot/CHAPTER_STORY_PROGRESSION_PLAN.md",
+      "target": "CHAPTER_STORY_PROGRESSION_PLAN.md",
+      "sha256": "836ef4a9697c4a1a2a226cbdba26f13a7c9720d3868073b667cc692c9fdadfc1"
+    },
+    {
+      "source": "SlimeOverlord_Godot/history_prologue.gd",
+      "target": "history_prologue.gd",
+      "sha256": "0a482936b4b5f4b0daef1a591f8ae2d744e4da7e98517280cfd3f2d08c04e851"
+    },
+    {
+      "source": "SlimeOverlord_Godot/screenshots/observer_unlock_v1.png",
+      "target": "screenshots/observer_unlock_v1.png",
+      "sha256": "fe24031169ebaf64c342ccacc245fb756b0ab49ab53e5ab35fda5c6e6b69316f"
+    },
+    {
+      "source": "SlimeOverlord_Godot/screenshots/cutscene_v4.png",
+      "target": "screenshots/cutscene_v4.png",
+      "sha256": "c6a8385caca75dc1834aad4432de8285acf88a1ace9ebd9930caec6fc31439f7"
+    },
+    {
+      "source": "SlimeOverlord_Godot/screenshots/stage2_v3.png",
+      "target": "screenshots/stage2_v3.png",
+      "sha256": "01acf7aa3a5abe85d2f6234da8e0564121ddc1fef2bdd168327bca15705f3a42"
+    },
+    {
+      "source": "SlimeOverlord_Godot/screenshots/battle_end_v4.png",
+      "target": "screenshots/battle_end_v4.png",
+      "sha256": "97c24069098bf864ea7ae64dbc4a70869bc992c168b481df1783d60991b75fd4"
+    },
+    {
+      "source": "SlimeOverlord_Godot/screenshots/observer_miniboss_v2.png",
+      "target": "screenshots/observer_miniboss_v2.png",
+      "sha256": "70cdaebf9c9ec312d7dfe1e5bb7fb06623b99f94b7ba4d4a567ca3077d84e507"
+    },
+    {
+      "source": "SlimeOverlord_Godot/screenshots/stage1_v4.png",
+      "target": "screenshots/stage1_v4.png",
+      "sha256": "1f5a917c23608e93a02a6cf565a710564d1d5834dd6613384139239747fd3684"
+    },
+    {
+      "source": "SlimeOverlord_Godot/screenshots/stage1_v5.png",
+      "target": "screenshots/stage1_v5.png",
+      "sha256": "1dbc2fd3214dd1387af607cfd8e481be7641f4bee690805c729754006d5ba310"
+    },
+    {
+      "source": "SlimeOverlord_Godot/screenshots/observer_final_v1.png",
+      "target": "screenshots/observer_final_v1.png",
+      "sha256": "7bac973de8d8d7d6e8c7065e9436b2f0df51a6f70dc065ab474c9839f629225e"
+    },
+    {
+      "source": "SlimeOverlord_Godot/screenshots/cutscene.png",
+      "target": "screenshots/cutscene.png",
+      "sha256": "24c762485360701d4f6d7015722723598beedc7ca6c3fd84f29d9eb69b94efbd"
+    },
+    {
+      "source": "SlimeOverlord_Godot/screenshots/stage4.png",
+      "target": "screenshots/stage4.png",
+      "sha256": "53b96ffd12222942818640298586f3fa67780f60b7931ff8b86b98e790497f84"
+    },
+    {
+      "source": "SlimeOverlord_Godot/screenshots/prologue.png",
+      "target": "screenshots/prologue.png",
+      "sha256": "aa4273821010ddb42688feca6b1620779e12c860d6ae271c9a02e5498dfd0ed2"
+    },
+    {
+      "source": "SlimeOverlord_Godot/screenshots/observer_v1.png",
+      "target": "screenshots/observer_v1.png",
+      "sha256": "43bf805caf046a5f658526fd1e625f441c5c7a82a898dd8707f264c25655d8f4"
+    },
+    {
+      "source": "SlimeOverlord_Godot/screenshots/stage2.png",
+      "target": "screenshots/stage2.png",
+      "sha256": "f066566d31edde396627b0ade1d4792835072fa09f1c6f1b4f47d26016961f46"
+    },
+    {
+      "source": "SlimeOverlord_Godot/screenshots/observer_trap_v2.png",
+      "target": "screenshots/observer_trap_v2.png",
+      "sha256": "496d1f750411114bd2b613124b4071e7cb82d592ed214e4ada80cbff8b97fffe"
+    },
+    {
+      "source": "SlimeOverlord_Godot/screenshots/camp_v5.png",
+      "target": "screenshots/camp_v5.png",
+      "sha256": "a016ba59259971f6c73d2834033c1199260141f1d6c289d831b6876b46268d42"
+    },
+    {
+      "source": "SlimeOverlord_Godot/tests/observer_balance.gd",
+      "target": "tests/observer_balance.gd",
+      "sha256": "4ef469753342d3f81a535c75fc6c6b3c5af5d77424a572381745da54bbe78608"
+    },
+    {
+      "source": "SlimeOverlord_Godot/tests/observer_smoke.gd",
+      "target": "tests/observer_smoke.gd",
+      "sha256": "0f38df32fecb9df0fe2b6aa5fdb4bb74ab8dc4026f5b34b80cbb43aa196a6392"
+    },
+    {
+      "source": "SlimeOverlord_Godot/tests/observer_meta_growth.gd",
+      "target": "tests/observer_meta_growth.gd",
+      "sha256": "a6ccba45fd268c36da222242e7e11bd9ab451a5f47a867ecdd8a539c3de9d7bf"
+    },
+    {
+      "source": "SlimeOverlord_Godot/tests/v4_balance.gd",
+      "target": "tests/v4_balance.gd",
+      "sha256": "eafc84e975110fb75cf80e7ecbe55f37bba12a54cc6dfc98a77e15c8d09de7ae"
+    },
+    {
+      "source": "SlimeOverlord_Godot/tests/multi_arena_smoke.gd",
+      "target": "tests/multi_arena_smoke.gd",
+      "sha256": "1d43b89933b39f3fed6889646004196125984cbd63a4cb46c595fd5f5925023f"
+    },
+    {
+      "source": "SlimeOverlord_Godot/tests/multi_arena_schedule.gd",
+      "target": "tests/multi_arena_schedule.gd",
+      "sha256": "446e8e1d6bf6dc37c6b9e10c3cff8a8adb4d7e7807a7e7357ae01fad02485f01"
+    },
+    {
+      "source": "SlimeOverlord_Godot/tests/dynamic_arena_reward.gd",
+      "target": "tests/dynamic_arena_reward.gd",
+      "sha256": "c3d2c42aab6f8d05c825ac47d92766541ea88fd3a6786d0646fb477a07474a03"
+    },
+    {
+      "source": "SlimeOverlord_Godot/tests/multi_arena_layout.gd",
+      "target": "tests/multi_arena_layout.gd",
+      "sha256": "7701da0cda699792b2fc2ec9c26b04e9bd5767c0060c969cc86de0a42a1806af"
+    },
+    {
+      "source": "SlimeOverlord_Godot/tests/v3_balance.gd",
+      "target": "tests/v3_balance.gd",
+      "sha256": "7658be980b0dfca2b7d91ebe670f36e6838648b69209b6b00868734a2cde192d"
+    },
+    {
+      "source": "SlimeOverlord_Godot/tests/chapter_progression.gd",
+      "target": "tests/chapter_progression.gd",
+      "sha256": "44ec37ace62f2ac3a614555f056711e7e1681a6944f51109e7014fa8083e318d"
+    },
+    {
+      "source": "SlimeOverlord_Godot/tests/observer_growth_trap.gd",
+      "target": "tests/observer_growth_trap.gd",
+      "sha256": "8db02e53645340c7129ce66cd6b0c2e7e15156506c37e1fc021239ef8451ed53"
+    },
+    {
+      "source": "SlimeOverlord_Godot/tests/observer_seed_balance.gd",
+      "target": "tests/observer_seed_balance.gd",
+      "sha256": "68ee134e296a34cbe9c1c1362b2a5ea8b19faf0b2ecebda84a7b69d3505004b8"
+    },
+    {
+      "source": "SlimeOverlord_Godot/tests/observer_miniboss_balance.gd",
+      "target": "tests/observer_miniboss_balance.gd",
+      "sha256": "e9298273d353ed13bcc051995737824198d2d70f70cea969d38d4ed6c7cc9266"
+    },
+    {
+      "source": "SlimeOverlord_Godot/tests/multi_arena_squad_cards.gd",
+      "target": "tests/multi_arena_squad_cards.gd",
+      "sha256": "dd59a5b184646acd56165b13348f91636b9570d8976b8784db45d152228fca53"
+    },
+    {
+      "source": "SlimeOverlord_Godot/tests/v3_smoke.gd",
+      "target": "tests/v3_smoke.gd",
+      "sha256": "0d904ba7d8e066e4ac6c2acda1012925a8ebca341e9b2bd876bb419aa4342dfc"
+    },
+    {
+      "source": "SlimeOverlord_Godot/tests/v2_smoke.gd",
+      "target": "tests/v2_smoke.gd",
+      "sha256": "cbbf93cf357b96faf6b19270664fcf36ff156f59a667fd5c96d8a37eba76dcf9"
+    },
+    {
+      "source": "SlimeOverlord_Godot/tests/v5_balance.gd",
+      "target": "tests/v5_balance.gd",
+      "sha256": "b06ceadc160e0acba712a741ae847dc16000aecb2e3599c6db0df8f66c0ef9bd"
+    },
+    {
+      "source": "SlimeOverlord_Godot/tests/multi_arena_rules.gd",
+      "target": "tests/multi_arena_rules.gd",
+      "sha256": "52321253cedd756fa792ebdb37f8660b9464456bab677c7ab3158853f753d33b"
+    },
+    {
+      "source": "SlimeOverlord_Godot/tests/v4_smoke.gd",
+      "target": "tests/v4_smoke.gd",
+      "sha256": "068ceb0a610d3019ac0cdc5239ca27e83b396c296926c0c20dffc967af502671"
+    },
+    {
+      "source": "SlimeOverlord_Godot/tests/v5_smoke.gd",
+      "target": "tests/v5_smoke.gd",
+      "sha256": "822ef155e189e411c1a6e1e898cb2433920eca29081695a594ced020f6e9e9f1"
+    },
+    {
+      "source": "SlimeOverlord_Godot/tests/observer_ultimate_expansion.gd",
+      "target": "tests/observer_ultimate_expansion.gd",
+      "sha256": "c0ff51f1f5c9928954941d064657ca23a3fafdd66ee3e6da41f99426089030c3"
+    },
+    {
+      "source": "SlimeOverlord_Godot/audio/voice_bleep.wav",
+      "target": "audio/voice_bleep.wav",
+      "sha256": "3d738e9e869d77f38050e385886537837ba0fd8a1fb793f06d1197f71c9c5c3b"
+    },
+    {
+      "source": "SlimeOverlord_Godot/audio/build_voice.py",
+      "target": "audio/build_voice.py",
+      "sha256": "6841364132735079668fc89efdc3d1a5556ecd185d15ded12ca32a91183bc140"
+    },
+    {
+      "source": "SlimeOverlord_Godot/fonts/OFL.txt",
+      "target": "fonts/OFL.txt",
+      "sha256": "eeacf16032901d0ed0456876ec77b8f0fda6b3fecec7d972f8543eb602e6c30f"
+    },
+    {
+      "source": "SlimeOverlord_Godot/fonts/NanumGothic-Regular.ttf",
+      "target": "fonts/NanumGothic-Regular.ttf",
+      "sha256": "76f45ef4a6bcff344c837c95a7dcc26e017e38b5846d5ae0cdcb5b86be2e2d31"
+    }
+  ],
+  "excluded": [
+    "backup archives",
+    "render frames",
+    "editing intermediates",
+    "caches",
+    "personal save data"
+  ]
+}
