@@ -6,9 +6,11 @@
 
 ## 화면
 
-![서바이버 등골 브레이커 화면 1](screenshots/observer_v1.png)
-![서바이버 등골 브레이커 화면 2](screenshots/observer_miniboss_v2.png)
-![서바이버 등골 브레이커 화면 3](screenshots/observer_final_v1.png)
+![현재 버전 current-battle 화면](docs/screenshots/current-battle.png)
+![현재 버전 current-victory 화면](docs/screenshots/current-victory.png)
+![현재 버전 current-chapters 화면](docs/screenshots/current-chapters.png)
+
+2026-09-25 독립 복사본의 브라우저 실행 화면에서 촬영했습니다. Safari PDF 내보내기 방식이라 일부 CSS 글자와 어두운 장면은 화면 표시와 다를 수 있습니다. 이전 버전에서 보존한 화면은 원본의 다른 스크린샷 파일로 구분합니다.
 
 ## 실행
 
